@@ -1,2 +1,2 @@
 # google-mimic
-First project to attempt to mimic the google search page
+First project after finishing the intros to HTML/CSS to attempt to mimic the look of the google search page
